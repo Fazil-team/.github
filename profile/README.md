@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.png" alt="Fazil Logo" width="200"/>
+  <img src="https://github.com/Fazil-team/Fazil/blob/main/logo.png" alt="Fazil Logo" width="200"/>
 </p>
 
 # Fazil 网盘系统
