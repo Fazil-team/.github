@@ -16,6 +16,6 @@ Fazil 是一个轻量级、高效且安全的网盘系统，支持多用户访�
 
 ## 安装与配置
 ```bash
-bash -c "$(curl -sSL https://github.com/Fazil-team/Fazil/releases/download/0.0.1/install.sh)"
+bash -c "$(curl -sSL https://github.com/Fazil-team/Fazil/releases/download/lastest/install.sh)"
 ```
 默认端口为本地:8080端口 进入安装页面 请以Releases页面为准
